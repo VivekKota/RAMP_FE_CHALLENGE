@@ -1,0 +1,6 @@
+
+# macOS-specific files
+.DS_Store
+
+# Node modules
+node_modules/
